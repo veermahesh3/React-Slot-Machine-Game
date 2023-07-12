@@ -1,0 +1,20 @@
+
+.heading{
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  padding: 20px 0;
+}
+.slot_inner{
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.slot-machine{
+
+ 
+  border: 1px solid black;
+  
+ 
+}
