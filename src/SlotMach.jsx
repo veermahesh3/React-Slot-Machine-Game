@@ -9,7 +9,7 @@ const SlotM=(props)=>{
   let x=props.x;
   let y=props.y;
   let z=props.z;
-  
+  //commenet addess
   
    return x===y && y===z ? <Match x={x} y={y} z={z}/> : <NotMatch x={x} y={y} z={z}/>
     
